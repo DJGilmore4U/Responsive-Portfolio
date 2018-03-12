@@ -708,6 +708,12 @@
 .sl-icon-social-twitter:before {
   content: "\e009";
 }
+.sl-icon-social-linkedin:before {
+  content: "\e009";
+}
+.sl-icon-social-github:before {
+  content:"\e009";
+}
 .sl-icon-social-facebook:before {
   content: "\e00b";
 }
