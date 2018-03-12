@@ -21,6 +21,13 @@ body {
   height: 100%;
   position: relative;
 }
+.DJG {
+  width: 172px;
+  height: 132px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+ }
 
 a {
   color: #1FB57B;
@@ -88,40 +95,40 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #1FB57B;
+  background: rgb(68, 186, 207);
   color: #fff;
-  border: 2px solid #1FB57B;
+  border: 2px solid rgb(68, 186, 207);
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #23cb8a !important;
-  border-color: #23cb8a !important;
+  background: rgb(68, 186, 207) !important;
+  border-color: rgb(68, 186, 207) !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #1FB57B;
-  border: 2px solid #1FB57B;
+  color: rgb(68, 186, 207);
+  border: 2px solid rgb(68, 186, 207);
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #1FB57B;
+  background: rgb(68, 186, 207);
   color: #fff;
 }
 
 .btn-success {
-  background: #5cb85c;
+  background: rgb(68, 186, 207);
   color: #fff;
-  border: 2px solid #5cb85c;
+  border: 2px solid rgb(68, 186, 207);
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active {
-  background: #4cae4c !important;
-  border-color: #4cae4c !important;
+  background: #2c75b1 !important;
+  border-color: #2c75b1 !important;
 }
 .btn-success.btn-outline {
   background: transparent;
-  color: #5cb85c;
-  border: 2px solid #5cb85c;
+  color: rgb(68, 186, 207);
+  border: 2px solid rgb(68, 186, 207);
 }
 .btn-success.btn-outline:hover, .btn-success.btn-outline:focus, .btn-success.btn-outline:active {
-  background: #5cb85c;
+  background: rgb(68, 186, 207);
   color: #fff;
 }
 
@@ -232,7 +239,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #1FB57B;
+  border-color: #2c75b1;
 }
 
 .fh5co-social {
@@ -396,7 +403,7 @@ h1, h2, h3, h4, h5, h6, figure {
   outline: none;
   text-decoration: none;
   color: white;
-  background: #1FB57B;
+  background: rgb(68, 186, 207);
   -webkit-border-radius: 40px;
   -moz-border-radius: 40px;
   -ms-border-radius: 40px;

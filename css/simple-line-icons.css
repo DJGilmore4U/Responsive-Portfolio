@@ -461,6 +461,7 @@
 }
 .sl-icon-diamond:before {
   content: "\e043";
+  color: deepskyblue;
 }
 .sl-icon-cup:before {
   content: "\e044";
