@@ -552,6 +552,7 @@
 }
 .sl-icon-graph:before {
   content: "\e06b";
+  color: deepskyblue;
 }
 .sl-icon-microphone:before {
   content: "\e063";
@@ -642,12 +643,14 @@
 }
 .sl-icon-heart:before {
   content: "\e08a";
+  color: deepskyblue;
 }
 .sl-icon-info:before {
   content: "\e08b";
 }
 .sl-icon-key:before {
   content: "\e08c";
+  color: deepskyblue;
 }
 .sl-icon-link:before {
   content: "\e08d";
