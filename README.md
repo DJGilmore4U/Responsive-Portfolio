@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Week 2 Homework Assignment | Responsive-Portfolio
+# DJGilmore4U.github.io
+DJGilmore4U Personal Page
